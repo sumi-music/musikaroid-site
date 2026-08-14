@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>News — MUSIKAROID</title>
+<meta name="description" content="ムジカロイドとMusikaroid Recordsのお知らせ。">
+<link rel="canonical" href="https://musikaroid.com/news.html">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#1B2A3A">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="MUSIKAROID">
+<meta property="og:title" content="News — MUSIKAROID">
+<meta property="og:url" content="https://musikaroid.com/news.html">
+<meta property="og:image" content="https://musikaroid.com/assets/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<script>(function(){var d=document.documentElement;try{var q=new URLSearchParams(location.search),l=q.get('lang')||localStorage.getItem('sumi-lang')||'ja';d.dataset.lang=l==='en'?'en':'ja';if(q.get('lang'))localStorage.setItem('sumi-lang',d.dataset.lang);d.dataset.theme=localStorage.getItem('sumi-theme')||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');}catch(e){d.dataset.lang='ja';d.dataset.theme='light';}})();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@400;500&family=Karla:wght@200;300;400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header style="position:fixed;top:0;left:0;right:0;z-index:50;display:flex;justify-content:space-between;align-items:center;gap:16px;padding:20px 28px;color:var(--ink);background:linear-gradient(var(--bg), transparent)">
+  <a href="./" style="text-decoration:none;color:var(--ink);font-family:Karla,sans-serif;font-size:12px;letter-spacing:0.3em">MUSIKAROID</a>
+  <div style="display:flex;align-items:center;gap:16px;font-family:Karla,sans-serif;font-size:11px;letter-spacing:0.14em">
+    <span style="display:flex;gap:6px;align-items:center">
+      <button id="btn-ja" aria-label="Japanese" style="background:none;border:none;cursor:pointer;padding:0;color:var(--ink);font-family:Karla,sans-serif;font-size:11px;letter-spacing:0.14em">JA</button>
+      <span style="opacity:0.4">/</span>
+      <button id="btn-en" aria-label="English" style="background:none;border:none;cursor:pointer;padding:0;color:var(--ink);font-family:Karla,sans-serif;font-size:11px;letter-spacing:0.14em">EN</button>
+    </span>
+    <button id="btn-theme" aria-label="Toggle light or dark theme" title="Light / Dark" style="background:none;border:none;cursor:pointer;padding:0;color:var(--ink);font-size:13px;line-height:1">○</button>
+  </div>
+</header>
+<main style="max-width:680px;margin:0 auto;padding:190px 28px 140px">
+  <p class="sec-label">NEWS</p>
+  <h1 style="margin:32px 0 0;font-size:22px;font-weight:300;letter-spacing:0.14em">
+    <span lang="ja">ニュース</span><span lang="en">News</span>
+  </h1>
+  <div id="news-full" style="margin-top:60px"></div>
+  <p style="margin:90px 0 0;text-align:center">
+    <a href="./" style="text-decoration:none;border-bottom:1px solid var(--line);padding-bottom:5px;font-size:11px;letter-spacing:0.22em;color:var(--dim)"><span lang="ja">ホームへ戻る</span><span lang="en">BACK TO HOME</span></a>
+  </p>
+</main>
+<div id="modal-bg" class="modal-bg" hidden></div>
+<script src="main.js" defer></script>
+</body>
+</html>
