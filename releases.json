@@ -1,0 +1,19 @@
+{
+  "releases": [
+    {
+      "id": "6c18ada7-2836-40ce-a499-f2fd2342644c",
+      "title": "風",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2F6c18ada7-2836-40ce-a499-f2fd2342644c%2Fcover-1786683145288.jpeg&w=384&q=75",
+      "url": "https://sono-tracks.com/r/6c18ada7-2836-40ce-a499-f2fd2342644c"
+    }
+  ],
+  "total": 1,
+  "artistUrl": "https://sono-tracks.com/u/musikaroid-records",
+  "syncedAt": "2026-08-14T09:35:45.510302+00:00"
+}
