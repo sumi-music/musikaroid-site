@@ -24,6 +24,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@400;500&family=Karla:wght@200;300;400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="sonotracks-catalog.css">
 </head>
 <body>
 <header style="position:fixed;top:0;left:0;right:0;z-index:50;display:flex;justify-content:space-between;align-items:center;gap:16px;padding:20px 28px;color:var(--ink);background:linear-gradient(var(--bg), transparent)">
@@ -94,7 +95,7 @@
   </section>
   <section style="margin-top:110px">
     <p class="sec-label">CATALOG</p>
-    <div id="catalog" style="margin-top:36px"></div>
+    <div class="sonotracks-dg" data-src="releases.json" data-columns="4" style="margin-top:36px;--sonotracks-dg-gap:24px;--sonotracks-dg-radius:4px;--sonotracks-dg-title-weight:300;--sonotracks-dg-title-size:13px;--sonotracks-dg-meta-size:11px;--sonotracks-dg-artist-color:var(--dim);--sonotracks-dg-artist-opacity:1"></div>
   </section>
   <section style="margin-top:110px">
     <p class="sec-label" style="margin-bottom:44px">NEWS</p>
@@ -122,5 +123,6 @@
   <p class="k" style="margin:110px 0 0;font-size:10px;letter-spacing:0.24em;color:var(--dim)">© 2026 MUSIKAROID</p>
 </section>
 <script src="main.js" defer></script>
+<script src="sonotracks-catalog.js" defer></script>
 </body>
 </html>
