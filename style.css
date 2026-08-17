@@ -46,4 +46,13 @@ button{font:inherit;color:inherit}
 .modal-art{position:relative;width:220px;aspect-ratio:1;flex:none;overflow:hidden;background:repeating-linear-gradient(135deg,rgba(122,147,168,.09) 0 2px,transparent 2px 14px),linear-gradient(160deg,var(--jbg),var(--jbg2));display:flex;align-items:center;justify-content:center}
 .mlink{text-decoration:none;font-family:Karla,sans-serif;font-size:11px;letter-spacing:.24em;color:var(--ink)}
 .ripple{position:fixed;width:14px;height:14px;border:1px solid rgba(122,147,168,.45);border-radius:50%;pointer-events:none;z-index:99}
+.cat-scroll{position:relative;margin-top:36px}
+.cat-scroll::before,.cat-scroll::after{content:'';position:absolute;left:0;right:8px;height:56px;pointer-events:none;z-index:2}
+.cat-scroll::before{top:0;background:linear-gradient(to bottom,var(--bg) 20%,transparent)}
+.cat-scroll::after{bottom:0;background:linear-gradient(to top,var(--bg) 20%,transparent)}
+.cat-scroll .sonotracks-dg{max-height:70vh;overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin;scrollbar-color:var(--mist) transparent;padding-right:4px}
+.cat-scroll .sonotracks-dg::-webkit-scrollbar{width:6px}
+.cat-scroll .sonotracks-dg::-webkit-scrollbar-track{background:transparent}
+.cat-scroll .sonotracks-dg::-webkit-scrollbar-thumb{background:var(--mist);border-radius:3px;opacity:.6}
+@media (max-width:640px){.cat-scroll .sonotracks-dg{max-height:60vh}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
