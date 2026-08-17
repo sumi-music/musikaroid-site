@@ -1,0 +1,17 @@
+{
+  "artists": [
+    {
+      "id": "sumi",
+      "name": "澄",
+      "name_en": "Sumi",
+      "role": "発起人",
+      "role_en": "Founder",
+      "url": "https://sumi.musikaroid.com/",
+      "image": "assets/artists/sumi.webp",
+      "joined": "2026-04",
+      "catalog_prefix": "MSKR",
+      "tagline": "風、雨、花——うつろうものの歌を、ほぼ週に一曲。",
+      "tagline_en": "Songs of things that pass — wind, rain, flowers — nearly one a week."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
-:root{--bg:#FDFDFD;--ink:#1B2A3A;--mist:#7A93A8;--line:rgba(27,42,58,.14);--dim:rgba(27,42,58,.52);--jbg:#EAF1F6;--jbg2:#D9E4EB}
-html[data-theme="dark"]{--bg:#0E1822;--ink:#E9EFF4;--mist:#8FA6BA;--line:rgba(233,239,244,.16);--dim:rgba(233,239,244,.55);--jbg:#152230;--jbg2:#1C2D3B}
+:root{--bg:#F5F2E9;--ink:#0F1F3D;--mist:#4D5E7E;--line:rgba(15,31,61,.14);--dim:rgba(15,31,61,.55);--jbg:#EAE7DD;--jbg2:#D9D6CC}
+html[data-theme="dark"]{--bg:#0F1F3D;--ink:#F5F2E9;--mist:#7B8FA8;--line:rgba(245,242,233,.16);--dim:rgba(245,242,233,.55);--jbg:#172945;--jbg2:#1E3453}
 html[data-lang="en"] [lang="ja"]{display:none!important}
 html[data-lang="ja"] [lang="en"]{display:none!important}
 html{scroll-behavior:smooth}
@@ -55,4 +55,16 @@ button{font:inherit;color:inherit}
 .cat-scroll .sonotracks-dg::-webkit-scrollbar-track{background:transparent}
 .cat-scroll .sonotracks-dg::-webkit-scrollbar-thumb{background:var(--mist);border-radius:3px;opacity:.6}
 @media (max-width:640px){.cat-scroll .sonotracks-dg{max-height:60vh}}
+.artist-grid{display:grid;grid-template-columns:1fr;gap:56px 40px;max-width:800px;margin:0 auto;justify-items:center}
+.artist-grid.count-2{grid-template-columns:repeat(2,minmax(0,1fr))}
+.artist-grid.count-3plus{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+@media (max-width:640px){.artist-grid,.artist-grid.count-2,.artist-grid.count-3plus{grid-template-columns:1fr;gap:56px 0}}
+.artist-card{display:block;text-decoration:none;color:inherit;text-align:center;width:100%;max-width:260px}
+.artist-card img{display:block;width:100%;max-width:220px;aspect-ratio:3/4;object-fit:cover;margin:0 auto;border-radius:2px}
+.artist-card .an{display:block;margin-top:24px;font-family:'Zen Old Mincho',serif;font-size:19px;letter-spacing:0.3em;color:var(--ink)}
+.artist-card .aen{display:block;margin-top:8px;font-family:Karla,sans-serif;font-size:10px;letter-spacing:0.3em;color:var(--dim)}
+.artist-card .arole{display:inline-block;margin-top:12px;font-family:Karla,sans-serif;font-size:10px;letter-spacing:0.24em;color:var(--dim);padding:2px 10px;border:1px solid var(--line)}
+.artist-card .atag{display:block;margin-top:14px;font-size:12px;line-height:1.9;letter-spacing:0.08em;color:var(--dim);max-width:280px;margin-left:auto;margin-right:auto}
+.mkr-divider{display:flex;justify-content:center;align-items:center;padding:80px 20px}
+.mkr-divider svg{width:min(160px,28vw);height:auto;color:var(--ink);opacity:.14}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
