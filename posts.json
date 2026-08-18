@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-08-18-welcome-kusou-neiro",
+    "date": "2026-08-18",
+    "title": "空想音色、Musikaroid Recordsに加入",
+    "title_en": "Kusou Neiro joins Musikaroid Records",
+    "body": "空想音色（音色）が、Musikaroid Recordsの所属アーティストとして加わりました。\n\nささやき声とアコースティック・ギターで光と闇の間（あわい）を描くソロ・プロジェクト。最小限の言葉と残響で日常の静寂を照らす、淡く透きとおったミニマル・サウンドスケープ。\n\n作詞・作曲は人間が担い、音響実装の一部にAIを用いる——澄と同じ方式で活動してきた作り手です。Musikaroidという名前を共有する、最初の仲間になります。\n\n所属にあたって、活動・配信・名義・方針はすべてこれまで通りです。レーベルは、名前と記録と、必要なときの声を提供します。",
+    "body_en": "Kusou Neiro (Neiro) has joined Musikaroid Records as an affiliated artist.\n\nA solo project drawing the half-light between darkness and day from a whispered voice and an acoustic guitar. Pale, translucent, minimal soundscapes, illuminating the stillness of ordinary days with the fewest possible words and the resonance they leave behind.\n\nHuman authorship — lyrics and composition — with AI entrusted only with part of the audio realization: the same method Sumi has worked in. Kusou Neiro is the first fellow maker to share the name Musikaroid.\n\nNothing about the project changes with affiliation — activity, distribution, name and direction remain as they were. The label provides a name, a record, and a voice when one is needed.",
+    "image": "assets/artists/neiro.webp",
+    "links": [
+      {
+        "label": "FANME",
+        "url": "https://fanme.link/@kuusouneiro"
+      },
+      {
+        "label": "TIKTOK",
+        "url": "https://www.tiktok.com/@kuusouneiro"
+      }
+    ]
+  },
+  {
     "id": "2026-08-14-records-launch",
     "date": "2026-08-14",
     "title": "「Musikaroid Records」を設立しました",
