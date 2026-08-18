@@ -11,7 +11,17 @@
       "joined": "2026-04",
       "catalog_prefix": "MSKR",
       "tagline": "風、雨、花——うつろうものの歌を、ほぼ週に一曲。",
-      "tagline_en": "Songs of things that pass — wind, rain, flowers — nearly one a week."
+      "tagline_en": "Songs of things that pass — wind, rain, flowers — nearly one a week.",
+      "links": [
+        {
+          "label": "TIKTOK",
+          "url": "https://www.tiktok.com/@sumi_nonnbiri"
+        },
+        {
+          "label": "YOUTUBE",
+          "url": "https://www.youtube.com/channel/UC_r294gFgAMD6ftGgnqs63Q"
+        }
+      ]
     },
     {
       "id": "neiro",
@@ -24,7 +34,17 @@
       "joined": "2026-08",
       "catalog_prefix": "MSKR",
       "tagline": "ささやき声とアコースティック・ギターで光と闇の間（あわい）を描くソロ・プロジェクト。最小限の言葉と残響で日常の静寂を照らす、淡く透きとおったミニマル・サウンドスケープ。",
-      "tagline_en": "A solo project drawing the half-light between darkness and day from a whispered voice and an acoustic guitar. Pale, translucent, minimal soundscapes, illuminating the stillness of ordinary days with the fewest possible words and the resonance they leave behind."
+      "tagline_en": "A solo project drawing the half-light between darkness and day from a whispered voice and an acoustic guitar. Pale, translucent, minimal soundscapes, illuminating the stillness of ordinary days with the fewest possible words and the resonance they leave behind.",
+      "links": [
+        {
+          "label": "TIKTOK",
+          "url": "https://www.tiktok.com/@kuusouneiro"
+        },
+        {
+          "label": "YOUTUBE",
+          "url": "https://www.youtube.com/@kuusouneiro"
+        }
+      ]
     }
   ]
 }
