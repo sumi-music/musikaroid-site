@@ -1,7 +1,31 @@
 {
   "releases": [
     {
-      "id": "6c18ada7-2836-40ce-a499-f2fd2342644c",
+      "id": "4f2086f1-49a8-429a-89e6-a328cc10b71a",
+      "title": "butterfly",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2F4f2086f1-49a8-429a-89e6-a328cc10b71a%2Fcover-1787277893882.jpeg&w=384&q=75",
+      "url": "https://sono-tracks.com/r/4f2086f1-49a8-429a-89e6-a328cc10b71a"
+    },
+    {
+      "id": "efed4eac-f7ec-40ca-aa63-8f77d0ab443c",
+      "title": "microbit",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2Fefed4eac-f7ec-40ca-aa63-8f77d0ab443c%2Fcover-1787273539125.jpeg&w=384&q=75",
+      "url": "https://sono-tracks.com/r/efed4eac-f7ec-40ca-aa63-8f77d0ab443c"
+    },
+    {
+      "id": "a4684fc5-cd64-4a9f-a7de-106ab2734fed",
       "title": "風",
       "artist": "澄 / sumi",
       "genres": [
@@ -9,11 +33,11 @@
       ],
       "trackCount": 1,
       "priceMin": 100,
-      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2F6c18ada7-2836-40ce-a499-f2fd2342644c%2Fcover-1786683145288.jpeg&w=384&q=75",
-      "url": "https://sono-tracks.com/r/6c18ada7-2836-40ce-a499-f2fd2342644c"
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2Fa4684fc5-cd64-4a9f-a7de-106ab2734fed%2Fcover-1786680903118.jpeg&w=384&q=75",
+      "url": "https://sono-tracks.com/r/a4684fc5-cd64-4a9f-a7de-106ab2734fed"
     }
   ],
-  "total": 1,
+  "total": 3,
   "artistUrl": "https://sono-tracks.com/u/musikaroid-records",
-  "syncedAt": "2026-08-14T09:35:45.510302+00:00"
+  "syncedAt": "2026-08-21T02:13:51.777742+00:00"
 }
