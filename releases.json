@@ -13,6 +13,18 @@
       "url": "https://sono-tracks.com/r/88d0076f-7376-4099-a22f-7442c4d2caf1"
     },
     {
+      "id": "1bc65ea1-a646-4438-9200-19445c026158",
+      "title": "嵐",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2F1bc65ea1-a646-4438-9200-19445c026158%2Fcover-1787395399353.jpeg&w=384&q=75",
+      "url": "https://sono-tracks.com/r/1bc65ea1-a646-4438-9200-19445c026158"
+    },
+    {
       "id": "15bd70a2-8a57-4aae-89ce-8951e3400007",
       "title": "dream",
       "artist": "澄 / sumi",
@@ -23,6 +35,90 @@
       "priceMin": 100,
       "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2F15bd70a2-8a57-4aae-89ce-8951e3400007%2Fcover-1787364013074.png&w=384&q=75",
       "url": "https://sono-tracks.com/r/15bd70a2-8a57-4aae-89ce-8951e3400007"
+    },
+    {
+      "id": "a13d00f8-6c99-4553-9acc-80dde55c42c2",
+      "title": "rain",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2Fa13d00f8-6c99-4553-9acc-80dde55c42c2%2Fcover-1787394318897.png&w=384&q=75",
+      "url": "https://sono-tracks.com/r/a13d00f8-6c99-4553-9acc-80dde55c42c2"
+    },
+    {
+      "id": "b38fbeb9-bdbb-4ca5-8f09-6786bc399df9",
+      "title": "Prism",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2Fb38fbeb9-bdbb-4ca5-8f09-6786bc399df9%2Fcover-1787393873539.png&w=384&q=75",
+      "url": "https://sono-tracks.com/r/b38fbeb9-bdbb-4ca5-8f09-6786bc399df9"
+    },
+    {
+      "id": "0816e1a3-47ec-4847-acc3-6584881feb10",
+      "title": "眩暈",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2F0816e1a3-47ec-4847-acc3-6584881feb10%2Fcover-1787393048999.png&w=384&q=75",
+      "url": "https://sono-tracks.com/r/0816e1a3-47ec-4847-acc3-6584881feb10"
+    },
+    {
+      "id": "73aa79d1-573b-4b03-aee1-31614d3ce913",
+      "title": "ài",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2F73aa79d1-573b-4b03-aee1-31614d3ce913%2Fcover-1787392671688.png&w=384&q=75",
+      "url": "https://sono-tracks.com/r/73aa79d1-573b-4b03-aee1-31614d3ce913"
+    },
+    {
+      "id": "01fced16-a261-4e5c-83fd-27215f914757",
+      "title": "アイスクリーム",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2F01fced16-a261-4e5c-83fd-27215f914757%2Fcover-1787391215789.png&w=384&q=75",
+      "url": "https://sono-tracks.com/r/01fced16-a261-4e5c-83fd-27215f914757"
+    },
+    {
+      "id": "008ed176-9a44-4173-9dff-60fe8362b592",
+      "title": "scab",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2F008ed176-9a44-4173-9dff-60fe8362b592%2Fcover-1787381406414.jpg&w=384&q=75",
+      "url": "https://sono-tracks.com/r/008ed176-9a44-4173-9dff-60fe8362b592"
+    },
+    {
+      "id": "9b41b101-3d68-4d89-b429-ccf71acc97a3",
+      "title": "夏",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2F9b41b101-3d68-4d89-b429-ccf71acc97a3%2Fcover-1787377271177.png&w=384&q=75",
+      "url": "https://sono-tracks.com/r/9b41b101-3d68-4d89-b429-ccf71acc97a3"
     },
     {
       "id": "58af452b-ba1c-40db-a683-0e12b4bb8447",
@@ -119,9 +215,21 @@
       "priceMin": 100,
       "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2Fa4684fc5-cd64-4a9f-a7de-106ab2734fed%2Fcover-1786680903118.jpeg&w=384&q=75",
       "url": "https://sono-tracks.com/r/a4684fc5-cd64-4a9f-a7de-106ab2734fed"
+    },
+    {
+      "id": "2ff286bf-5144-4836-b17a-dbb1403a2c57",
+      "title": "flower",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 3,
+      "priceMin": 300,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2F2ff286bf-5144-4836-b17a-dbb1403a2c57%2Fcover-1787394737470.png&w=384&q=75",
+      "url": "https://sono-tracks.com/r/2ff286bf-5144-4836-b17a-dbb1403a2c57"
     }
   ],
-  "total": 10,
+  "total": 19,
   "artistUrl": "https://sono-tracks.com/u/musikaroid-records",
-  "syncedAt": "2026-08-22T07:45:51.824206+00:00"
+  "syncedAt": "2026-08-22T10:53:08.274883+00:00"
 }
