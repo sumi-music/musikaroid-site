@@ -1,6 +1,30 @@
 {
   "releases": [
     {
+      "id": "15bd70a2-8a57-4aae-89ce-8951e3400007",
+      "title": "dream",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2F15bd70a2-8a57-4aae-89ce-8951e3400007%2Fcover-1787364013074.png&w=384&q=75",
+      "url": "https://sono-tracks.com/r/15bd70a2-8a57-4aae-89ce-8951e3400007"
+    },
+    {
+      "id": "f9a9e885-686d-457e-ae04-0ef191f314b7",
+      "title": "ブーケ",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2Ff9a9e885-686d-457e-ae04-0ef191f314b7%2Fcover-1787363353601.png&w=384&q=75",
+      "url": "https://sono-tracks.com/r/f9a9e885-686d-457e-ae04-0ef191f314b7"
+    },
+    {
       "id": "4f2086f1-49a8-429a-89e6-a328cc10b71a",
       "title": "butterfly",
       "artist": "澄 / sumi",
@@ -37,7 +61,7 @@
       "url": "https://sono-tracks.com/r/a4684fc5-cd64-4a9f-a7de-106ab2734fed"
     }
   ],
-  "total": 3,
+  "total": 5,
   "artistUrl": "https://sono-tracks.com/u/musikaroid-records",
-  "syncedAt": "2026-08-21T02:13:51.777742+00:00"
+  "syncedAt": "2026-08-22T03:08:25.384533+00:00"
 }
