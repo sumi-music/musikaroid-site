@@ -55,6 +55,7 @@ button{font:inherit;color:inherit}
 .cat-scroll .sonotracks-dg::-webkit-scrollbar-track{background:transparent}
 .cat-scroll .sonotracks-dg::-webkit-scrollbar-thumb{background:var(--mist);border-radius:3px;opacity:.6}
 @media (max-width:640px){.cat-scroll .sonotracks-dg{max-height:60vh}}
+@media (max-width:640px){.spotify-embed iframe{height:352px}}
 .artist-grid{display:grid;grid-template-columns:1fr;gap:56px 40px;max-width:800px;margin:0 auto;justify-items:center}
 .artist-grid.count-2{grid-template-columns:repeat(2,minmax(0,1fr))}
 .artist-grid.count-3plus{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
