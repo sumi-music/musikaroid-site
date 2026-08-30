@@ -56,6 +56,22 @@ button{font:inherit;color:inherit}
 .cat-scroll .sonotracks-dg::-webkit-scrollbar-thumb{background:var(--mist);border-radius:3px;opacity:.6}
 @media (max-width:640px){.cat-scroll .sonotracks-dg{max-height:60vh}}
 @media (max-width:640px){.spotify-embed iframe{height:352px}}
+.article-body{font-size:14px;line-height:2.2;letter-spacing:0.06em;text-wrap:pretty}
+.article-body p{margin:26px 0 0}
+.article-body strong{font-weight:500;color:var(--ink)}
+.article-body a{color:var(--ink);border-bottom:1px solid var(--line)}
+.article-body h2{margin:64px 0 0;padding-top:44px;border-top:1px solid var(--line);font-family:'Zen Old Mincho',serif;font-size:17px;font-weight:400;letter-spacing:0.08em;line-height:1.7}
+.article-body h3{margin:44px 0 0;font-family:'Zen Old Mincho',serif;font-size:14px;font-weight:500;letter-spacing:0.08em;color:var(--mist)}
+.article-body h2 + p,.article-body h3 + p{margin-top:28px}
+.article-body hr{margin:56px 0 0;border:0;border-top:1px solid var(--line)}
+.article-body blockquote{margin:32px 0 0;padding:20px 24px;border-left:2px solid var(--mist);background:color-mix(in oklab,var(--mist) 6%,transparent);font-size:13px;line-height:2.1;color:var(--ink)}
+.article-body ul{margin:20px 0 0;padding-left:22px}
+.article-body li{margin-top:12px;line-height:2}
+.article-body table{width:100%;margin:32px 0 0;border-collapse:collapse;font-size:13px;line-height:1.8}
+.article-body th,.article-body td{padding:14px 16px;border:1px solid var(--line);text-align:left;vertical-align:top;letter-spacing:0.06em}
+.article-body th{background:color-mix(in oklab,var(--mist) 8%,transparent);font-weight:500;color:var(--mist);font-family:Karla,'Zen Old Mincho',serif;font-size:11px;letter-spacing:0.14em}
+.article-body .subtitle{margin-top:8px;font-family:Karla,sans-serif;font-size:12px;letter-spacing:0.16em;color:var(--mist)}
+.article-body .byline{margin-top:6px;font-size:13px;letter-spacing:0.14em;color:var(--dim)}
 .artist-grid{display:grid;grid-template-columns:1fr;gap:56px 40px;max-width:800px;margin:0 auto;justify-items:center}
 .artist-grid.count-2{grid-template-columns:repeat(2,minmax(0,1fr))}
 .artist-grid.count-3plus{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
