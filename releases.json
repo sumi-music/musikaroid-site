@@ -1,6 +1,18 @@
 {
   "releases": [
     {
+      "id": "f91c4bb1-f73a-4732-a156-bd5d7f2415b3",
+      "title": "スカーレット",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2Ff91c4bb1-f73a-4732-a156-bd5d7f2415b3%2Fcover-1788132747034.png&w=384&q=75",
+      "url": "https://sono-tracks.com/r/f91c4bb1-f73a-4732-a156-bd5d7f2415b3"
+    },
+    {
       "id": "ea012960-7ea4-4e77-8721-fb4adf3c57a5",
       "title": "モノローグ",
       "artist": "空想音色",
@@ -253,7 +265,7 @@
       "url": "https://sono-tracks.com/r/2ff286bf-5144-4836-b17a-dbb1403a2c57"
     }
   ],
-  "total": 21,
+  "total": 22,
   "artistUrl": "https://sono-tracks.com/u/musikaroid-records",
-  "syncedAt": "2026-08-30T07:23:23.823241+00:00"
+  "syncedAt": "2026-08-30T23:43:16.913068+00:00"
 }
