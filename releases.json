@@ -1,6 +1,18 @@
 {
   "releases": [
     {
+      "id": "71f59a08-1bd9-4c3e-a7fc-e986cb174190",
+      "title": "polaris",
+      "artist": "澄 / sumi",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2F71f59a08-1bd9-4c3e-a7fc-e986cb174190%2Fcover-1789350506506.png&w=384&q=75",
+      "url": "https://sono-tracks.com/r/71f59a08-1bd9-4c3e-a7fc-e986cb174190"
+    },
+    {
       "id": "40ceb1ca-d414-4bee-a3c6-c94e1050d71f",
       "title": "白光ラッシュ",
       "artist": "澄 / sumi",
@@ -289,7 +301,7 @@
       "url": "https://sono-tracks.com/r/2ff286bf-5144-4836-b17a-dbb1403a2c57"
     }
   ],
-  "total": 24,
+  "total": 25,
   "artistUrl": "https://sono-tracks.com/u/musikaroid-records",
-  "syncedAt": "2026-09-07T04:22:38.382680+00:00"
+  "syncedAt": "2026-09-14T06:14:02.938294+00:00"
 }
