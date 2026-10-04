@@ -1,6 +1,46 @@
 {
   "releases": [
     {
+      "id": "a60aefa5-73d3-4f8e-98bb-b3c31c4ef621",
+      "title": "Marguerite - remix EP",
+      "artist": "空想音色",
+      "genres": [
+        "Minimal Techno",
+        "Acoustic",
+        "Kawaii Metal",
+        "IDM",
+        "Electronic Rock",
+        "Lo-Fi Alternative",
+        "Post-Rock",
+        "Big Beat",
+        "Digital Hardcore",
+        "Trip Hop",
+        "Ambient Techno",
+        "Acid Jazz",
+        "French House",
+        "EDM",
+        "2-Step Garage",
+        "Chillout",
+        "Electropop"
+      ],
+      "trackCount": 18,
+      "priceMin": 1800,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2Fa60aefa5-73d3-4f8e-98bb-b3c31c4ef621%2Fcover-1790997453442.jpg&w=384&q=75",
+      "url": "https://sono-tracks.com/r/a60aefa5-73d3-4f8e-98bb-b3c31c4ef621"
+    },
+    {
+      "id": "26cde4b4-4b3b-4ee7-9461-9cce26d449aa",
+      "title": "ミルクティ",
+      "artist": "空想音色",
+      "genres": [
+        "J-POP"
+      ],
+      "trackCount": 1,
+      "priceMin": 100,
+      "artworkUrl": "https://sono-tracks.com/_next/image?url=https%3A%2F%2Fyuszysslzxseqowgcpfk.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ftracks-artwork%2Freleases%2F26cde4b4-4b3b-4ee7-9461-9cce26d449aa%2Fcover-1789814558473.jpg&w=384&q=75",
+      "url": "https://sono-tracks.com/r/26cde4b4-4b3b-4ee7-9461-9cce26d449aa"
+    },
+    {
       "id": "71f59a08-1bd9-4c3e-a7fc-e986cb174190",
       "title": "polaris",
       "artist": "澄 / sumi",
@@ -301,7 +341,7 @@
       "url": "https://sono-tracks.com/r/2ff286bf-5144-4836-b17a-dbb1403a2c57"
     }
   ],
-  "total": 25,
+  "total": 27,
   "artistUrl": "https://sono-tracks.com/u/musikaroid-records",
-  "syncedAt": "2026-09-14T06:14:02.938294+00:00"
+  "syncedAt": "2026-10-04T05:45:13.791884+00:00"
 }
